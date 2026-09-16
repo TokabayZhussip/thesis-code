@@ -1,6 +1,7 @@
 # thesis-code
 
 thesis-code/
+
 ├── README.md            # описание проекта (обязательно)
 
 ├── LICENSE              # лицензия (обязательно)
